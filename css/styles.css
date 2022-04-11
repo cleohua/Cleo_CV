@@ -110,12 +110,12 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   color: #343a40;
 }
 
-h1, .h1 {
+/* h1, .h1 {
   font-size: calc(1.725rem + 5.7vw);
-}
+} */
 @media (min-width: 1200px) {
   h1, .h1 {
-    font-size: 6rem;
+    font-size: 2.5rem;
   }
 }
 
@@ -4001,7 +4001,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #bd6f38;
 }
 
 .nav-fill > .nav-link,
